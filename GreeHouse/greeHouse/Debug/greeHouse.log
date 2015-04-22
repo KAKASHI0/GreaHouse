@@ -1,0 +1,43 @@
+﻿生成启动时间为 2015/4/8 18:40:25。
+     1>项目“E:\codes\GreeHouse\greeHouse\greeHouse\greeHouse.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\greeHouse.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing logIn.h...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I. /IC:\Qt\4.8.5\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.5\include\QtCore /IC:\Qt\4.8.5\include\QtGui /IC:\Qt\4.8.5\include\QtSql /IC:\Qt\4.8.5\include\QtNetwork /I"D:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_logIn.cpp MainWindow.cpp logIn.cpp main.cpp
+         moc_logIn.cpp
+     1>c:\qt\4.8.5\include\qtcore\../../src/corelib/global/qconfig.h(41): warning C4005: “QT_LARGEFILE_SUPPORT”: 宏重定义
+                 命令行参数: 参见前面的“QT_LARGEFILE_SUPPORT”定义
+         MainWindow.cpp
+     1>c:\qt\4.8.5\include\qtcore\../../src/corelib/global/qconfig.h(41): warning C4005: “QT_LARGEFILE_SUPPORT”: 宏重定义
+                 命令行参数: 参见前面的“QT_LARGEFILE_SUPPORT”定义
+         logIn.cpp
+     1>c:\qt\4.8.5\include\qtcore\../../src/corelib/global/qconfig.h(41): warning C4005: “QT_LARGEFILE_SUPPORT”: 宏重定义
+                 命令行参数: 参见前面的“QT_LARGEFILE_SUPPORT”定义
+         main.cpp
+     1>c:\qt\4.8.5\include\qtcore\../../src/corelib/global/qconfig.h(41): warning C4005: “QT_LARGEFILE_SUPPORT”: 宏重定义
+                 命令行参数: 参见前面的“QT_LARGEFILE_SUPPORT”定义
+         正在生成代码...
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\codes\GreeHouse\greeHouse\Win32\Debug\\greeHouse.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.5\lib /LIBPATH:"D:\Program Files (x86)\Visual Leak Detector\lib\Win32" qtmaind.lib QtCored4.lib QtGuid4.lib QtSqld4.lib QtNetworkd4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\greeHouse.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\codes\GreeHouse\greeHouse\Win32\Debug\greeHouse.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\codes\GreeHouse\greeHouse\Win32\Debug\greeHouse.lib" /MACHINE:X86 Debug\greeHouse.res
+         Debug\moc_logIn.obj
+         Debug\qrc_GreeHouse.obj
+         Debug\logIn.obj
+         Debug\main.obj
+         Debug\MainWindow.obj
+         LINK : 没有找到 E:\codes\GreeHouse\greeHouse\Win32\Debug\\greeHouse.exe 或上一个增量链接没有生成它；正在执行完全链接
+         greeHouse.vcxproj -> E:\codes\GreeHouse\greeHouse\Win32\Debug\greeHouse.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\codes\GreeHouse\greeHouse\Win32\Debug\\greeHouse.exe;#1" /manifest Debug\greeHouse.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\greeHouse.unsuccessfulbuild”。
+         正在对“Debug\greeHouse.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\codes\GreeHouse\greeHouse\greeHouse\greeHouse.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.78

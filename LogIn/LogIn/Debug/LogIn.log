@@ -1,0 +1,36 @@
+﻿生成启动时间为 2015/4/8 17:09:19。
+     1>项目“E:\codes\GreeHouse\LogIn\LogIn\LogIn.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\codes\GreeHouse\LogIn\Win32\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\LogIn.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing login.h...
+         Uic'ing login.ui...
+         Rcc'ing login.qrc...
+     1>RCC : warning : No resources in 'E:\codes\GreeHouse\LogIn\LogIn\login.qrc'.
+         
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.5\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.5\include\QtCore /IC:\Qt\4.8.5\include\QtGui /I"D:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_login.cpp login.cpp main.cpp
+         moc_login.cpp
+         login.cpp
+         main.cpp
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.5\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.5\include\QtCore /IC:\Qt\4.8.5\include\QtGui /I"D:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_login.cpp
+         qrc_login.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\codes\GreeHouse\LogIn\Win32\Debug\\LogIn.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.5\lib /LIBPATH:"D:\Program Files (x86)\Visual Leak Detector\lib\Win32" qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LogIn.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\codes\GreeHouse\LogIn\Win32\Debug\LogIn.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\codes\GreeHouse\LogIn\Win32\Debug\LogIn.lib" /MACHINE:X86 Debug\moc_login.obj
+         Debug\qrc_login.obj
+         Debug\login.obj
+         Debug\main.obj
+         LogIn.vcxproj -> E:\codes\GreeHouse\LogIn\Win32\Debug\LogIn.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\codes\GreeHouse\LogIn\Win32\Debug\\LogIn.exe;#1" /manifest Debug\LogIn.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\LogIn.unsuccessfulbuild”。
+         正在对“Debug\LogIn.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\codes\GreeHouse\LogIn\LogIn\LogIn.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.30

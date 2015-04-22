@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+      <file alias="logImage">Resources/logIn.jpg</file>
+      <file alias="logIcon">Resources/logIcon.jpg</file>
+    </qresource>
+</RCC>
